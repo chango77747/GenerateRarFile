@@ -1,1 +1,4 @@
 
+ Program written to create a RAR file of size that you input. 
+ Usage: GenerateRarFile -f {PathToFilename} -s {filesizeInMB}
+ Example: GenerateRarFile -f C:\temp\MFer.rar -s 100
