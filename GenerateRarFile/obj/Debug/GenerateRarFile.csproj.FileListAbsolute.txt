@@ -1,0 +1,6 @@
+C:\Users\evan.pena\Dropbox\Developement\GenerateRarFile\GenerateRarFile\bin\Debug\GenerateRarFile.exe.config
+C:\Users\evan.pena\Dropbox\Developement\GenerateRarFile\GenerateRarFile\bin\Debug\GenerateRarFile.exe
+C:\Users\evan.pena\Dropbox\Developement\GenerateRarFile\GenerateRarFile\bin\Debug\GenerateRarFile.pdb
+C:\Users\evan.pena\Dropbox\Developement\GenerateRarFile\GenerateRarFile\obj\Debug\GenerateRarFile.csproj.CoreCompileInputs.cache
+C:\Users\evan.pena\Dropbox\Developement\GenerateRarFile\GenerateRarFile\obj\Debug\GenerateRarFile.exe
+C:\Users\evan.pena\Dropbox\Developement\GenerateRarFile\GenerateRarFile\obj\Debug\GenerateRarFile.pdb
